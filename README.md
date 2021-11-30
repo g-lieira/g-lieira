@@ -1,4 +1,10 @@
-### Hi guys 👋
+### Hi everyone 👋
+<img src="https://i.pinimg.com/originals/05/01/1c/05011ce8b4b326ed62c70f3eab93f913.gif" width="37.50%" height="auto"/>
+
+## 
+
+[![Instagram](https://img.shields.io/badge/-Instagram-D83A7C?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/glieira/)
+
 
 <!--
 **g-lieira/g-lieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +22,12 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=g-lieira&border_color=1a1b27&show_icons=true&theme=radical&hide=issues" alt="github stats" width="450">
+<img src="https://github-readme-stats.vercel.app/api?username=g-lieira&border_color=1a1b27&show_icons=true&theme=radical&hide=issues" alt="github stats" width="450"> 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-7f38c1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/glieira/)
+## My Tech Stacks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="5.8%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="5.8%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5.8%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="5.8%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="5.8%"/>
 
-<img src="https://i.pinimg.com/originals/05/01/1c/05011ce8b4b326ed62c70f3eab93f913.gif" width="37.50%" height="auto"/>
+
+
+
+
