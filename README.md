@@ -1,4 +1,4 @@
-### Hey guys 👋
+### Hi guys 👋
 <img src="https://i.pinimg.com/originals/05/01/1c/05011ce8b4b326ed62c70f3eab93f913.gif" width="37.50%" height="auto"/>
 
 ## 
