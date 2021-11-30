@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys 👋
 
 <!--
 **g-lieira/g-lieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=g-lieira&border_color=1a1b27&show_icons=true&theme=radical&hide=issues" alt="github stats" width="450">
+
+[![Instagram](https://img.shields.io/badge/-Instagram-7f38c1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/glieira/)
+
+<img src="https://i.pinimg.com/originals/05/01/1c/05011ce8b4b326ed62c70f3eab93f913.gif" width="37.50%" height="auto"/>
