@@ -1,5 +1,6 @@
-### Oiee, eu sou a Gabriela Lieira
-<img src="https://i.pinimg.com/originals/05/01/1c/05011ce8b4b326ed62c70f3eab93f913.gif" width="37.50%" height="auto"/>
+### Oiee, eu sou a Gabi Lieira
+<img src="https://i.pinimg.com/originals/c2/fa/56/c2fa56970effcf07a24aabfb507d85c9.gif" widht="auto" height="170px"/> 
+
 
 <a href="https://instagram.com/glieira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-D83A7C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/glieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
