@@ -1,7 +1,7 @@
 <div>
   <img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif" widht="auto" height="170px" align="right"/>
   <h3>Oie, me chamo Gabriela Lieira, mas pode me chamar de Gabi 😊</h3>
-  - Cusando Bacharelado em Engenharia de Computação
+  - Cursando Bacharelado em Engenharia de Computação
   <br><br>
   <a href="https://instagram.com/glieira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-D83A7C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/glieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
