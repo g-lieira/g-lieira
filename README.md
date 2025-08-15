@@ -1,7 +1,7 @@
 <div>
   <img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif" widht="auto" height="170px" align="right"/>
   <h3>Oie, me chamo Gabriela Lieira, mas pode me chamar de Gabi 😊</h3>
-  - Cursando Bacharelado em Engenharia de Computação 
+  - Bacharelado em Engenharia de Computação 
   <br>
   - Admiradora do universo, estrelas e galáxias
   <br><br>
